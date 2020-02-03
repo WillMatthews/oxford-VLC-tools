@@ -22,6 +22,6 @@ Instruments:
 
 
 TODOs:
-[] Add code for everyone's instruments
-[] Standardise the codebase
-[] Add documentation
+[ ] Add code for everyone's instruments
+[ ] Standardise the codebase
+[ ] Add documentation
