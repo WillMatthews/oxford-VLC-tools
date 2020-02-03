@@ -18,3 +18,10 @@ Instruments:
 - oscilloscope
   - 2.5GHz (USB)
   - 33GHz (Pair A) (USB)
+
+
+
+TODOs:
+[] Add code for everyone's instruments
+[] Standardise the codebase
+[] Add documentation
