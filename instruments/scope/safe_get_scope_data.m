@@ -1,6 +1,8 @@
 function [dataOut] = safe_get_scope_data(scopename)
 %SAFE_GET_SCOPE_DATA does a safe capture from the oscilloscope (retrying if
 %the data capture messes up
+% returns 'dataOut' which is a structure containing all values returned by oscope
+
 
 sets = get_scope_set();
 if strcmpi(scopename, "33")
