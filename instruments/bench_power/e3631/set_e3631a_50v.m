@@ -1,4 +1,4 @@
-function [] = set_e3631a(v, imax);
+function [] = set_e3631a_50v(v, imax);
 %% Instrument Connection
 
 % Find a GPIB object.
