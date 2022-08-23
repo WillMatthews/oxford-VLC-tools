@@ -19,7 +19,14 @@ Instruments:
 - oscilloscope
   - 2.5GHz (USB)
   - 33GHz (Pair A) (USB)
-
+  - 4GHz (PAIR B) (USB)
+- source meter
+  - keithly 224 (GPIB)
+- optical power meter
+  - Newport 1830c (GPIB)
+  - Newport 835 (GPIB)
+- laser driver
+  - Newport 5005 (GPIB)
 
 
 TODOs:
