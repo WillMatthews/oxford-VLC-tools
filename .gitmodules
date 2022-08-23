@@ -1,0 +1,3 @@
+[submodule "instruments/polariser/esp-i2c-titan"]
+	path = instruments/polariser/esp-i2c-titan
+	url = https://github.com/WillMatthews/esp-i2c-titan
